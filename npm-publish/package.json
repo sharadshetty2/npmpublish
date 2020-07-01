@@ -1,6 +1,6 @@
 {
   "name": "@sharadshetty2/npm-publish",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "trying to publish a npm package",
   "main": "index.js",
   "scripts": {
