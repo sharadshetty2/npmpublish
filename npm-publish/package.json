@@ -1,6 +1,6 @@
 {
   "name": "@sharad/npm-publish",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "trying to publish a npm package",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
+  "author": "sharad_shetty",
   "license": "ISC",
   "dependencies": {
     "@emotion/core": "^10.0.28",
