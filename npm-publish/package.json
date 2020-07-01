@@ -1,5 +1,5 @@
 {
-  "name": "@sharad/npm-publish",
+  "name": "@sharadshetty2/npm-publish",
   "version": "0.1.0",
   "description": "trying to publish a npm package",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
+  "repository": "git://github.com/sharadshetty2/npmpublish.git",
   "author": "sharad_shetty",
   "license": "ISC",
   "dependencies": {
