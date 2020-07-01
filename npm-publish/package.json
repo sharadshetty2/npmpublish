@@ -1,0 +1,30 @@
+{
+  "name": "@sharad/npm-publish",
+  "version": "0.0.1",
+  "description": "trying to publish a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "antd": "^4.4.0",
+    "moment": "^2.27.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-virtualized": "^9.21.2",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-react": "^7.20.0",
+    "prettier": "^2.0.5"
+  }
+}
